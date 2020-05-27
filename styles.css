@@ -1,0 +1,13 @@
+.indexMenu {
+    background-color: lightgray;
+    color: black;
+    width: 15%;
+    float: left;
+}
+
+.infoPane {
+    background-color: darkgray;
+    color: black;
+    width: 50%;
+    float: left;
+}
